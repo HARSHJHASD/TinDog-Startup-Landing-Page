@@ -1,0 +1,296 @@
+i{
+  color: pink;
+  margin-bottom: 10px;
+}
+
+
+
+i:hover {
+  color: blue;
+}
+
+
+
+h2,h3{
+  font-family: "Montserrat";
+  font-size: 4rem;
+  font-weight: 900;
+}
+
+
+p{
+  font-family: "Montserrat-light", sans-serif;
+  color: #8f8f8f;
+  font-size: 1.05rem;
+  text-align: center;
+}
+
+
+
+
+
+.pricebutton {
+  width: 100%;
+  padding: 0px;
+}
+
+.card {
+  text-align:center;
+}
+
+
+
+.nav-link {
+  font-size: 1.5rem;
+  font-family: "Montserrat-light", sans-serif;
+}
+
+
+
+
+
+
+
+.column{
+  padding: 30px;
+  height: 271px;
+  width: 401px;
+}
+
+
+.logo {
+  height: 30px;
+  padding: 0 2%;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.profile {
+  border-radius: 100%;
+  height: 100px;
+  margin-bottom: 100px;
+}
+
+
+
+#footer{
+  text-align: center;
+}
+
+
+#cta{
+
+background-color: #fe346e;
+height: 200px;
+text-align: center;
+color: white;
+font-family:'Lilita One', cursive;
+font-weight:Bold;
+font-size: 3em;
+
+}
+
+#title {
+  background-color: #ff4c68;
+  height: 650px;
+  position: relative;
+
+}
+
+#navbar-brand1 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 3rem;
+  font-weight: 'bold';
+  padding-left: 30px;
+}
+
+#rowfeatures {
+  background-color: #fff;
+  text-align: center;
+
+  width: 120%;
+}
+
+
+#dogimage {
+  width: 90%;
+  transform: rotate(26deg);
+  padding-left: 90px;
+
+  right: 40%;
+}
+
+#features {
+  padding: 7% 15%;
+  position:relative;
+  background-color: #fff;
+}
+
+#applebutton {
+  margin: 20fimpx;
+}
+
+
+#trial {
+  padding-top: 100px;
+
+  left: 30px;
+}
+
+
+
+#press {
+  background-color: pink;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+
+
+
+#testimonials {
+  background-color: pink;
+  text-align: center;
+
+  color: white;
+}
+
+
+#h01 {
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.5;
+  color: white;
+  width: 450px;
+  font-weight: 900;
+}
+
+#pricing-container {
+  padding: 7% 15%;
+}
+
+#firstcontainer {
+  padding-top: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+
+
+}
+
+@media(max-width:992px) {
+  #dogimage {
+    width: 100%;
+    transform: rotate(26deg);
+    padding-left: 90px;
+
+    right: 0%;
+    left: 10%;
+  }
+
+  #title {
+    background-color: #ff4c68;
+    height: 480px;
+
+  }
+
+  #h01 {
+    font-family: "Montserrat", sans-serif;
+    line-height: 1.5;
+    color: white;
+    width: 450px;
+    font-weight: 900;
+  }
+
+  #firstcontainer {
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+
+  }
+}
+
+@media (max-width:891px) {
+  #dogimage {
+    width: 100%;
+    transform: rotate(26deg);
+    padding-left: 90px;
+    position: relative;
+    right: 0%;
+    left: 5%;
+  }
+}
+
+@media (max-width:850px) {
+  #dogimage {
+    width: 100%;
+    transform: rotate(26deg);
+    padding-left: 90px;
+    position: relative;
+    right: 0%;
+    left: 1%;
+  }
+}
+
+@media (max-width:816px) {
+  #dogimage {
+    width: 98%;
+    transform: rotate(26deg);
+    padding-left: 90px;
+    position: relative;
+    right: 0%;
+    left: 1%;
+  }
+}
+
+@media (max-width:808px) {
+  #dogimage {
+    width: 96%;
+    transform: rotate(26deg);
+    padding-left: 90px;
+    position: relative;
+    right: 0%;
+    left: 1%;
+  }
+}
+
+@media (max-width:788px) {
+  #dogimage {
+    width: 94%;
+    transform: rotate(26deg);
+    padding-left: 90px;
+    position: relative;
+    right: 0%;
+    left: 1%;
+  }
+}
+
+@media (max-width:768px) {
+  #dogimage {
+    width: 92%;
+    transform: rotate(26deg);
+    padding-left: 90px;
+    position: relative;
+    right: 0%;
+    left: 1%;
+  }
+}
+
+@media (max-width:768px) {
+  #dogimage {
+    width: 80%;
+    transform: rotate(26deg);
+    padding-left: 50%px;
+    padding-top: 10%;
+    padding-right: 18%;
+    position: relative;
+  }
+
+  #title {
+    background-color: #ff4c68;
+    height: 800px;
+    position: relative;
+
+  }
+}
